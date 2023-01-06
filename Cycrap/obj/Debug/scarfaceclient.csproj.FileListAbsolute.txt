@@ -1,0 +1,12 @@
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\ScarfaceClient.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\ScarfaceClient.pdb
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\RenderHeads.AVProMovieCapture.Runtime.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\scarfaceclient.csprojAssemblyReference.cache
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\scarfaceclient.csproj.CoreCompileInputs.cache
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\scarfaceclient.csproj.CopyComplete
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\ScarfaceClient.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\ScarfaceClient.pdb

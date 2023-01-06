@@ -1,0 +1,1223 @@
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\M A Abort.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\M A Abort.pdb
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Iced.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\Murderer\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Murderer\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\Murderer\Cycrap\obj\Debug\M A Abort.dll
+C:\Users\cyril\Desktop\Murderer\Cycrap\obj\Debug\M A Abort.pdb
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\Cycrap\Template\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\Cycrap\Wing Template\Template\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\NEWUI Wings - taketwo\Template\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\obj\Debug\Cycrap.csprojAssemblyReference.cache
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\AVProVideo.Extensions.Timeline.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\AVProVideo.Extensions.UnityUI.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\AVProVideo.Extensions.VisualEffectGraph.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\BeeByteObfuscator.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Cinemachine.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\clipper_library.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Collections.Pooled.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\DOTween.Modules.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.IO.Compression.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Runtime.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.ValueTuple.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\netstandard.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Sigtrap.VrTunnellingPro.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UniTask.Addressables.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UniTask.DOTween.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UniTask.Linq.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UniTask.TextMeshPro.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\Unity.Timeline.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Downloads\KamiSoulWings\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.Timeline.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.UnityUI.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.VisualEffectGraph.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\BeeByteObfuscator.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Cinemachine.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\clipper_library.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Collections.Pooled.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\DOTween.Modules.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.IO.Compression.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.ValueTuple.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\netstandard.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Sigtrap.VrTunnellingPro.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UniTask.Addressables.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UniTask.DOTween.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UniTask.Linq.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UniTask.TextMeshPro.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\Unity.Timeline.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\obj\Debug\Cycrap.csprojAssemblyReference.cache
+C:\Users\cyril\Downloads\RETemplate\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Downloads\RETemplate\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Downloads\RETemplate\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Downloads\RETemplate\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.Timeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.UnityUI.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\AVProVideo.Extensions.VisualEffectGraph.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\BeeByteObfuscator.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Cinemachine.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\clipper_library.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Collections.Pooled.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\DOTween.Modules.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.IO.Compression.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.ValueTuple.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\netstandard.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Sigtrap.VrTunnellingPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UniTask.Addressables.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UniTask.DOTween.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UniTask.Linq.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UniTask.TextMeshPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\Unity.Timeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\obj\Debug\TEMPLATE.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\RETemplate\Cycrap\obj\Debug\TEMPLATE.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.Timeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.UnityUI.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.VisualEffectGraph.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\BeeByteObfuscator.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Cinemachine.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\clipper_library.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Collections.Pooled.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\CRXCMenu.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\DOTween.Modules.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.IO.Compression.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.ValueTuple.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\netstandard.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Sigtrap.VrTunnellingPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UniTask.Addressables.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UniTask.DOTween.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UniTask.Linq.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UniTask.TextMeshPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Unity.Timeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\CRXCMenu.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Module 1.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\bin\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\obj\Debug\Module 1.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\Module 1\Cycrap\obj\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\bin\Debug\Module 1.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\bin\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\bin\Debug\ShapesRuntime.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\bin\Debug\System.Buffers.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\obj\Debug\Module 1.dll
+C:\Users\cyril\Desktop\UI2.0Cycrap\CRXC-RE\Module 1\Cycrap\obj\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\obj\Debug\Cycrap.csproj.AssemblyReference.cache
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\obj\Debug\Module 1.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\obj\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Module 1.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Module 1.pdb
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\0Harmony.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AssetsTools.NET.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.Timeline.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.UnityUI.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AVProVideo.Extensions.VisualEffectGraph.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\AVProVideo.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\BeeByteObfuscator.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\bHapticsLib.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\BlobHandles.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Cinemachine.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\clipper_library.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Collections.Pooled.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\DataModel.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\DOTween.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\DOTween.Modules.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.CJK.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.MidEast.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.Other.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.Rare.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\I18N.West.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppMono.Security.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Buffers.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Collections.Immutable.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Configuration.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.IO.Compression.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Memory.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.ValueTuple.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Xml.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\IndexRange.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\MelonLoader.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Mono.Cecil.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\MonoMod.Utils.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Sigtrap.VrTunnellingPro.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\System.Json.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\System.ServiceModel.Internals.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Tomlet.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Transmtn.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UniTask.Addressables.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UniTask.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UniTask.DOTween.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UniTask.Linq.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UniTask.TextMeshPro.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.Burst.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.InputSystem.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.Mathematics.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Unity.Timeline.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.Il2CppAssetBundleManager.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.Il2CppImageConversionManager.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\ValueTupleBridge.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Collections.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Dynamics.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.ClientBindings.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.Common.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.Security.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.Serialization.AOT.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.VM.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.VRCWrapperModules.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Udon.Wrapper.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.UI.Core.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.UI.Elements.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.UI.Shared.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRC.Utility.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCCore-Editor.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCCore-Standalone.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCLog.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCSDK2.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCSDK3.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCSDK3A.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\VRCSDKBase.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\websocket-sharp.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\WebSocketDotNet.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\RenderHeads.AVProMovieCapture.Runtime.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\bin\Debug\Mono.Security.dll
+C:\Users\cyril\Desktop\CRXCQuest\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Photon-DotNet.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\OscCore.Runtime.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Oculus.VR.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\RenderHeads.AVProMovieCapture.Runtime.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\Oculus.Platform.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\Cycrap.csprojAssemblyReference.cache
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CoreCompileInputs.cache
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\Cycrap.csproj.CopyComplete
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\ScarfaceClient.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\bin\Debug\ScarfaceClient.pdb
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\ScarfaceClient.dll
+C:\Users\Jimps\Desktop\Module 1\Cycrap\obj\Debug\ScarfaceClient.pdb
